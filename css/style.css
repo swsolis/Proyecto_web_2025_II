@@ -1,0 +1,29 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 16px;
+}
+.titulo {
+    color:black;
+    text-align: center;
+    font-size: 3.8rem;
+   /* width: 20rem;  /* 1rem = 10px */
+}
+
+#ix {
+     color: blue;
+}
+
+#nt {
+    color:darkmagenta;
+}
+
+h1 span {
+    font-size: 2rem;
+    color: red;
+}
+
+h2 span {
+    color: chartreuse;
+}
